@@ -1,6 +1,7 @@
 # ArizonaWildhacks
 
 Authors:
+
   Alejandro Zaragoza (webpage design and javascript)
   
   Isaac Fimbres (Python for Cloudant database)
